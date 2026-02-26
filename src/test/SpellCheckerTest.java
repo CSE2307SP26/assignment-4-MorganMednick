@@ -13,7 +13,6 @@ class SpellCheckerTest {
 
 		//2. call the method being tested
 		int words = checker.getNumberOfWords();
-		fail("Not yet implemented");
 
 		//3. Assertions to verify
 		assertEquals(0, words);
